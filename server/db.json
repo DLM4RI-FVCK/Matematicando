@@ -1,0 +1,147 @@
+{
+  "progreso": {
+    "estrellas": 3
+  },
+  "ejercicios": [
+    {
+      "id": 1,
+      "ejercicio": "8 + 4 = ?",
+      "respuesta": 12
+    },
+    {
+      "id": 2,
+      "ejercicio": "7 + 5 = ?",
+      "respuesta": 12
+    },
+    {
+      "id": 3,
+      "ejercicio": "6 + 5 = ?",
+      "respuesta": 11
+    },
+    {
+      "id": 4,
+      "ejercicio": "9 + 2 = ?",
+      "respuesta": 11
+    },
+    {
+      "id": 5,
+      "ejercicio": "7 + 3 = ?",
+      "respuesta": 10
+    },
+    {
+      "id": 6,
+      "ejercicio": "5 + 4 = ?",
+      "respuesta": 9
+    },
+    {
+      "id": 7,
+      "ejercicio": "3 + 5 = ?",
+      "respuesta": 8
+    },
+    {
+      "id": 8,
+      "ejercicio": "15 - 7 = ?",
+      "respuesta": 8
+    },
+    {
+      "id": 9,
+      "ejercicio": "14 - 8 = ?",
+      "respuesta": 6
+    },
+    {
+      "id": 10,
+      "ejercicio": "16 - 9 = ?",
+      "respuesta": 7
+    },
+    {
+      "id": 11,
+      "ejercicio": "17 - 8 = ?",
+      "respuesta": 9
+    },
+    {
+      "id": 12,
+      "ejercicio": "13 - 6 = ?",
+      "respuesta": 7
+    },
+    {
+      "id": 13,
+      "ejercicio": "18 - 9 = ?",
+      "respuesta": 9
+    },
+    {
+      "id": 14,
+      "ejercicio": "12 - 7 = ?",
+      "respuesta": 5
+    },
+    {
+      "id": 15,
+      "ejercicio": "3 × 3 = ?",
+      "respuesta": 9
+    },
+    {
+      "id": 16,
+      "ejercicio": "4 × 2 = ?",
+      "respuesta": 8
+    },
+    {
+      "id": 17,
+      "ejercicio": "2 × 5 = ?",
+      "respuesta": 10
+    },
+    {
+      "id": 18,
+      "ejercicio": "3 × 4 = ?",
+      "respuesta": 12
+    },
+    {
+      "id": 19,
+      "ejercicio": "2 × 6 = ?",
+      "respuesta": 12
+    },
+    {
+      "id": 20,
+      "ejercicio": "3 × 2 = ?",
+      "respuesta": 6
+    },
+    {
+      "id": 21,
+      "ejercicio": "18 ÷ 2 = ?",
+      "respuesta": 9
+    },
+    {
+      "id": 22,
+      "ejercicio": "24 ÷ 3 = ?",
+      "respuesta": 8
+    },
+    {
+      "id": 23,
+      "ejercicio": "21 ÷ 3 = ?",
+      "respuesta": 7
+    },
+    {
+      "id": 24,
+      "ejercicio": "30 ÷ 5 = ?",
+      "respuesta": 6
+    },
+    {
+      "id": 25,
+      "ejercicio": "36 ÷ 4 = ?",
+      "respuesta": 9
+    },
+    {
+      "id": 26,
+      "ejercicio": "28 ÷ 4 = ?",
+      "respuesta": 7
+    },
+    {
+      "id": 27,
+      "ejercicio": "20 ÷ 4 = ?",
+      "respuesta": 5
+    },
+    {
+      "id": 28,
+      "ejercicio": "27 ÷ 3 = ?",
+      "respuesta": 9
+    }
+  ]
+}
